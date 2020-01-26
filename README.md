@@ -1,6 +1,6 @@
-## Welcome to TiagoMSSantos page
+## Welcome to [Tiago](https://tiagomssantos.github.io) page
 
 ### MobileRT
 
-Android Ray Tracing engine:
-For more details see [MobileRT](https://github.com/TiagoMSSantos/MobileRT).
+C++ Ray Tracer for Android and Linux.<br/>
+For more details see [MobileRT](https://github.com/TiagoMSSantos/MobileRT).<br/>
