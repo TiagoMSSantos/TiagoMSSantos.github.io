@@ -1,1 +1,5 @@
-theme: jekyll-theme-slate
+theme: jekyll-theme-midnight
+include:
+  - README.md
+  - _index.html
+  
